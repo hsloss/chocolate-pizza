@@ -1,0 +1,106 @@
+header {
+  width: 75%;
+  display: inline-block;
+}
+
+h6 {
+  display: inline-block;
+  float: right;
+}
+
+#icon {
+  display: inline-block;
+  float: right;
+  margin-left: 10px;
+}
+
+#subtitle {
+  display: inline-block;
+}
+
+#logo {
+  display: inline-block;
+  float: left;
+  top: 100px;
+}
+
+#social {
+  display: inline-block;
+  float: right;
+}
+
+hr.style-one {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  opacity: 0.5;
+  background: repeating-linear-gradient(45deg, #ebf8e1 15%, #D3D3D3 20%);
+}
+
+hr.style-two {
+  width: 45%;
+  margin-right: 30px;
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  float: left;
+  z-index: -1;
+}
+
+hr.style-three {
+  width: 45%;
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  float: right;
+  z-index: -1;
+}
+
+/* hr.style-two:after {
+  content: url(file:///C:/Users/Hannah%20Maguire%20Sloss/Documents/201/chocolate-pizza/img/small-logo.png);
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  top: -0.7em;
+  padding: 0 0.25em;
+  align-content: center;
+} */
+
+div.row {
+  background-image: url(file:///C:/Users/Hannah%20Maguire%20Sloss/Documents/201/chocolate-pizza/img/list-bg.png);
+}
+
+div.column {
+  display: inline-block;
+}
+
+button {
+  display: inline-block;
+  float: right;
+}
+
+#headshot {
+  display: inline-block;
+}
+
+#bio {
+  display: inline-block;
+}
+
+h5 {
+  display: inline-block;
+  text-align: left;
+}
+
+#summary {
+  text-align: center;
+}
+
+body {
+  width: 75%;
+  margin: 100px;
+  color: black;
+}
